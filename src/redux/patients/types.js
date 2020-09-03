@@ -1,0 +1,5 @@
+export const actionTypes = {
+  ADD_PATIENT: "ADD_PATIENT",
+  DELETE_PATIENT: "DELETE_PATIENT",
+  ONE_PATIENT_VIEW: "ONE_PATIENT_VIEW",
+};
